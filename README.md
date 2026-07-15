@@ -1,73 +1,53 @@
-<h1 align="center">
-  Hi 👋, I'm Muhammadamir Tashpulatov
-</h1>
+````md
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAd/coding.gif" width="100%" alt="Cyber Banner"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Muhammadamir Tashpulatov</h1>
 
 <h3 align="center">
-🚀 Python Developer | AI Enthusiast | Web Developer | Onshape Learner
+🐍 Python Developer • 🤖 AI Enthusiast • 🌐 AI Web Builder • ⚙️ Onshape Learner
 </h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+AI+Powered+Websites.;Learning+Python+Every+Day.;Future+Software+Engineer." />
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 My name is **Muhammadamir Tashpulatov**.
+```python
+class Muhammadamir:
 
-🌍 I'm from **Uzbekistan 🇺🇿**
+    name = "Muhammadamir Tashpulatov"
 
-💻 Currently learning:
+    country = "Uzbekistan 🇺🇿"
 
-- 🐍 Python
-- 🤖 Artificial Intelligence (AI)
-- 🌐 AI-powered Web Development
-- ⚙️ Onshape (CAD)
-- 📚 Software Development
-- 🧠 Problem Solving
+    learning = [
+        "Python",
+        "Artificial Intelligence",
+        "Onshape",
+        "Web Development",
+        "Git & GitHub"
+    ]
 
-🚀 I love creating websites with the help of AI and learning modern technologies every day.
+    current_focus = "Building websites with AI"
+
+    life_goal = "Become a Professional Software Engineer"
+
+me = Muhammadamir()
+```
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Skills
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode,linux"/>
 
 </p>
-
----
-
-# 🌱 Currently Learning
-
-✔ Advanced Python
-
-✔ AI Development
-
-✔ Full Stack Web Development
-
-✔ APIs
-
-✔ Git & GitHub
-
-✔ Onshape
-
-✔ UI/UX
-
----
-
-# 🚀 My Goal
-
-✨ Become a Professional Software Developer
-
-✨ Build AI-powered Applications
-
-✨ Create Useful Open Source Projects
-
-✨ Keep Learning Every Day
 
 ---
 
@@ -75,9 +55,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -87,17 +67,17 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </p>
 
@@ -105,43 +85,41 @@
 
 # 🐍 Contribution Snake
 
+> Snake ishlashi uchun GitHub Actions sozlash kerak.
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 💻 What I'm Doing
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night">
-
-</p>
-
----
-
-# 💻 Coding
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
-
-</p>
+- 🐍 Learning Python
+- 🤖 Exploring Artificial Intelligence
+- 🌐 Building Websites with AI
+- ⚙️ Learning Onshape CAD
+- 📚 Improving Every Day
 
 ---
 
-# 💬 Quote
+# 🎯 Goals
 
-> "Code. Learn. Build. Repeat."
+✔ Become a Full Stack Developer
+
+✔ Build Amazing AI Projects
+
+✔ Contribute to Open Source
+
+✔ Never Stop Learning
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -152,3 +130,4 @@
 ⭐ Thanks for visiting my profile! ⭐
 
 </h3>
+````

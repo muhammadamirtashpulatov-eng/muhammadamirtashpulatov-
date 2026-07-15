@@ -1,76 +1,154 @@
-# 👋 Hi, I'm Muhammadamir Tashpulatov
+<h1 align="center">
+  Hi 👋, I'm Muhammadamir Tashpulatov
+</h1>
 
-## 🚀 About Me
+<h3 align="center">
+🚀 Python Developer | AI Enthusiast | Web Developer | Onshape Learner
+</h3>
 
-I'm **Muhammadamir Tashpulatov** from **Uzbekistan 🇺🇿**.
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+</p>
 
-I'm passionate about programming, technology, and creating useful projects. Currently, I'm learning and improving my skills in:
+---
+
+# 💫 About Me
+
+🎓 My name is **Muhammadamir Tashpulatov**.
+
+🌍 I'm from **Uzbekistan 🇺🇿**
+
+💻 Currently learning:
 
 - 🐍 Python
 - 🤖 Artificial Intelligence (AI)
 - 🌐 AI-powered Web Development
-- ⚙️ Onshape (3D CAD Design)
-- 💻 Software Development
-- 🎨 UI/UX Design
+- ⚙️ Onshape (CAD)
+- 📚 Software Development
+- 🧠 Problem Solving
 
-I enjoy building websites with the help of AI and constantly exploring new technologies to improve my development skills.
-
----
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Onshape](https://img.shields.io/badge/Onshape-1B5FAA?style=for-the-badge)
+🚀 I love creating websites with the help of AI and learning modern technologies every day.
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Python
-- Artificial Intelligence
-- AI-assisted Full Stack Web Development
-- APIs
-- Git & GitHub
-- Onshape CAD
-- Problem Solving
-
----
-
-## 🎯 Goals
-
-- Build modern AI-powered websites
-- Create useful open-source projects
-- Improve my programming skills every day
-- Learn new technologies and frameworks
-- Become a professional Software Developer
-
----
-
-## 📈 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 💡 Favorite Quote
+# 🌱 Currently Learning
 
-> "Never stop learning. Every line of code makes you stronger."
+✔ Advanced Python
+
+✔ AI Development
+
+✔ Full Stack Web Development
+
+✔ APIs
+
+✔ Git & GitHub
+
+✔ Onshape
+
+✔ UI/UX
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 🚀 My Goal
+
+✨ Become a Professional Software Developer
+
+✨ Build AI-powered Applications
+
+✨ Create Useful Open Source Projects
+
+✨ Keep Learning Every Day
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night">
+
+</p>
+
+---
+
+# 💻 Coding
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
+
+</p>
+
+---
+
+# 💬 Quote
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
